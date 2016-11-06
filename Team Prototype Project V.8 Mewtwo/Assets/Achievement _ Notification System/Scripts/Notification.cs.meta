@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: c08b981fa944c7b40acf97c09eb37f4c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tingSound: {fileID: 8300000, guid: 534fe4c691d65a64cbadef545a566b8d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

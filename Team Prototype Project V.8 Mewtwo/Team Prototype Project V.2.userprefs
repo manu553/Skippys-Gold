@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlaySound.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameSounds.cs" Line="11" Column="21" />
+      <File FileName="Assets\Scripts\PlaySound.cs" Line="27" Column="19" />
+      <File FileName="Assets\Scripts\MakeGrid.cs" Line="44" Column="45" />
+      <File FileName="Assets\Scripts\GridUnitSound.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelReset.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PathAlgorithm.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Documents\My Unity Projects\Team Prototype - Offline files\Team Prototype Project V.2\Assets\Scripts\GameSounds.cs" line="28" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

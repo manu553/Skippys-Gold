@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MasterControl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MasterControl.cs" Line="149" Column="5" />
+      <File FileName="Assets\Scripts\PathAlgorithm.cs" Line="163" Column="4" />
+      <File FileName="Assets\Scripts\LevelReset.cs" Line="51" Column="2" />
+      <File FileName="Assets\Scripts\menuScript.cs" Line="15" Column="25" />
+      <File FileName="Assets\Scripts\GridUnitSound.cs" Line="16" Column="2" />
+      <File FileName="Assets\Scripts\GridUnitBehavior.cs" Line="115" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

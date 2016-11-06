@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScoreManager.cs">
+    <Files>
+      <File FileName="C:\Users\Shirou\Google Drive\BCIT\Team Prototype\Version Control Submissions\Aing\ScoreManager.cs" Line="3" Column="1" />
+      <File FileName="C:\Users\Shirou\Google Drive\BCIT\Team Prototype\Version Control Submissions\Aing\MasterControl.cs" Line="198" Column="52" />
+      <File FileName="Assets\Scripts\MasterControl.cs" Line="226" Column="54" />
+      <File FileName="Assets\Scripts\ScoreManager.cs" Line="22" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
